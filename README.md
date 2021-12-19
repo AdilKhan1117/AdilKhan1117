@@ -8,14 +8,7 @@ Certified DevOps Infrastructure Engineer with
 Infrastructure, cloud, networking, automation,
 and open source software tools.
 
-🌱  Enjoys contributing to running open-source projects and in the near-future, aims to create an open-source project
-
-## My Goal:
-
-
-
-## Contributors
- 
+🌱 Enjoys contributing to running open-source projects and in the near-future, aims to create an open-source project
 
 ### Main Languages and Tools:
 <p align="left">
