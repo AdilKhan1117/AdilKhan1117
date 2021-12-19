@@ -2,7 +2,31 @@
  <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
 </p>
 <h2 align="center">Hello there! My name is Adil khan. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+<p align="center">Highly skilled, motivated and passionate
+DevOps Engineer, who loves to problem solve
+and seeks new challenges.
+Certified DevOps Infrastructure Engineer with
+7+ years of hands-on experience in
+Infrastructure, cloud, networking, automation,
+and open source software tools.
+Extensive experience in supporting Cloud
+(Azure, AWS), DevOps, IaC tools (Ansible,
+Terraform), Containerization with Kubernetes,
+Docker and Continuous Integration, and
+Delivery (CI/CD).
+A solid understanding of core networking
+protocols, TCP/IP, UDP, ARP, DNS, DHCP, and
+an understanding of the OSI model.
+Experience building hybrid cloud and onpremise infrastructure, in a -on-premise
+manner, and with an understanding of the
+trade-offs of cloud vs on-prem solutions.
+Manage platform systems to ensure reliability
+and security through the support and
+maintenance of existing systems.
+Good written and verbal communication skills
+with the ability to listen, present and
+communicate solutions clearly and concisely
+with technical audiences. 
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
