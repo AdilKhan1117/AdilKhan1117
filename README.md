@@ -46,8 +46,6 @@ and open source software tools.
 
 ![Adil GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilKhan1117&theme=dark&show_icons=true&count_private=true)
 
-[![Adil GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilKhan1117&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AdilKhan1117&color=green&style=liquid" />
 </p>
