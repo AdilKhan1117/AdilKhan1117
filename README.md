@@ -9,24 +9,6 @@ Certified DevOps Infrastructure Engineer with
 7+ years of hands-on experience in
 Infrastructure, cloud, networking, automation,
 and open source software tools.
-Extensive experience in supporting Cloud
-(Azure, AWS), DevOps, IaC tools (Ansible,
-Terraform), Containerization with Kubernetes,
-Docker and Continuous Integration, and
-Delivery (CI/CD).
-A solid understanding of core networking
-protocols, TCP/IP, UDP, ARP, DNS, DHCP, and
-an understanding of the OSI model.
-Experience building hybrid cloud and onpremise infrastructure, in a -on-premise
-manner, and with an understanding of the
-trade-offs of cloud vs on-prem solutions.
-Manage platform systems to ensure reliability
-and security through the support and
-maintenance of existing systems.
-Good written and verbal communication skills
-with the ability to listen, present and
-communicate solutions clearly and concisely
-with technical audiences. 
 </p>
 
 <p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
