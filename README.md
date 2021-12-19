@@ -32,7 +32,7 @@ and open source software tools.
 
 ### Connect with me 📫  🤝🏻 :
 
-<a href="https://www.linkedin.com/in/adil-khan-99a28155/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@madil-khan-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/adil-khan-99a28155/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@adil-khan-blue?style=flat&logo=linkedin"></a>
 
 <a href="https://twitter.com/DevOpEnthusiast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
