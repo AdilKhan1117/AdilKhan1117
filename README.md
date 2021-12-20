@@ -1,7 +1,7 @@
 ### Hi there, I'm Adil 👋
 
 🔭 Adil is Highly skilled, motivated and passionate
-DevOps Engineer, who loves to problem solve
+Platform Engineer, who loves to problem solve
 and seeks new challenges.
 Certified DevOps Infrastructure Engineer with
 7+ years of hands-on experience in
