@@ -3,7 +3,7 @@
 🔭 Adil is Highly skilled, motivated and passionate
 Platform Engineer, who loves to problem solve
 and seeks new challenges.
-Certified DevOps Infrastructure Engineer with
+Certified Engineer with
 7+ years of hands-on experience in
 Infrastructure, cloud, networking, automation,
 and open source software tools.
